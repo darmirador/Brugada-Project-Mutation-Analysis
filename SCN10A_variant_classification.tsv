@@ -1,0 +1,17 @@
+variant	gene	category	amino_acid_change	note
+rs78425180	SCN10A	synonymous_variant	NA	cDNA changed only - c.4708_4710 ACG>ACT
+rs6790627	SCN10A	synonymous_variant	NA	cDNA changed only - c.4321_4323 AAA>AAG
+rs4076737	SCN10A	intron_variant	NA	does not map to CDS
+rs6795970	SCN10A	missense_variant	V1073A	cDNA and protein changed - DNA:c.3217_3219 GTC>GCC; protein:V1073A
+rs77787358	SCN10A	intron_variant	NA	does not map to CDS
+rs7374804	SCN10A	missense_variant	K950N	cDNA and protein changed - DNA:c.2848_2850 AAA>AAT; protein:K950N
+rs7618620	SCN10A	intron_variant	NA	does not map to CDS
+rs72866265	SCN10A	intron_variant	NA	does not map to CDS
+rs12494065	SCN10A	intron_variant	NA	does not map to CDS
+rs7630989	SCN10A	missense_variant	S509A	cDNA and protein changed - DNA:c.1525_1527 TCC>GCC; protein:S509A
+rs7617919	SCN10A	synonymous_variant	NA	cDNA changed only - c.1474_1476 CTC>CTT
+rs6798015	SCN10A	intron_variant	NA	does not map to CDS
+rs7641844	SCN10A	splice_polypyrimidine_tract_variant,intron_variant	NA	does not map to CDS
+rs74717885	SCN10A	missense_variant	I206M	cDNA and protein changed - DNA:c.616_618 ATA>ATG; protein:I206M
+rs73826327	SCN10A	intron_variant	NA	does not map to CDS
+rs62244081	SCN10A	intron_variant	NA	does not map to CDS

@@ -1,0 +1,19 @@
+variant	gene	category	amino_acid_change	note
+rs6799868	SCN5A	intron_variant	NA	does not map to CDS
+rs6770569	SCN5A	intron_variant	NA	does not map to CDS
+rs9873213	SCN5A	intron_variant	NA	does not map to CDS
+rs6797133	SCN5A	intron_variant	NA	does not map to CDS
+rs6781731	SCN5A	intron_variant	NA	does not map to CDS
+rs7431305	SCN5A	intron_variant	NA	does not map to CDS
+rs41315485	SCN5A	3_prime_UTR_variant	NA	does not map to CDS
+rs11414422	SCN5A	3_prime_UTR_variant	NA	does not map to CDS
+rs41315487	SCN5A	3_prime_UTR_variant	NA	does not map to CDS
+rs397763929	SCN5A	3_prime_UTR_variant	NA	does not map to CDS
+rs4073796	SCN5A	3_prime_UTR_variant	NA	does not map to CDS
+rs41310757	SCN5A	3_prime_UTR_variant	NA	does not map to CDS
+rs7429945	SCN5A	3_prime_UTR_variant	NA	does not map to CDS
+rs1805126	SCN5A	synonymous_variant	NA	cDNA changed only - c.5452_5454 GAT>GAC
+rs41312393	SCN5A	intron_variant	NA	does not map to CDS
+rs6804918	SCN5A	intron_variant	NA	does not map to CDS
+rs41310771	SCN5A	intron_variant	NA	does not map to CDS
+rs1805124	SCN5A	missense_variant	H558R	cDNA and protein changed - DNA:c.1672_1674 CAC>CGC; protein:H558R
