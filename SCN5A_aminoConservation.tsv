@@ -1,0 +1,2 @@
+gene	rsid	aa_change	ref_aa	pos	alt_aa	ref_transcript	aln_col	cons_score	residue_counts
+SCN5A	rs1805124	H558R	H	558	R	ENST00000423572	670	0.5139	H:16;Q:1;R:71

@@ -17,8 +17,13 @@ Sample usage:
 
 Arguments:
     -i / --input   : Text file with rsIDs (rsID at start of each line; text after ';' ignored)
-    -b / --bigwig  : Path to hg38.phyloP100way.bw
+    -b / --bigwig  : Path to hg38.phyloP100way.bw (PLEASE MAKE SURE TO DOWNLOAD THIS VIA UCSC
+    AND PUT IN THE SAME WORKING DIRECTORY. See 'hg38.phyloP100way.bw'. It is intentionally excluded from
+    version control via `.gitignore`, so it will not appear in the Git repository.)
     -o / --output  : Output TSV file containing rsID, genomic_location, and phyloP100way
+
+Please install the necessary dependencies such as pyBigWig (for reading the .bw file) 
+by typing 'pip3 install pyBigWig' on terminal.
 """
 
 import sys

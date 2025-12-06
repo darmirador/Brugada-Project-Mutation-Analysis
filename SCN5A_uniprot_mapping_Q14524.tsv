@@ -1,0 +1,5 @@
+rsID	gene	hgvsp	aa_change	protein_pos	uniprot_acc	uniprot_feature_type	uniprot_feature_desc	uniprot_feature_range
+rs1805124	SCN5A	p.H558R	H558R	558	Q14524	Chain	Sodium channel protein type 5 subunit alpha	1-2016
+rs1805124	SCN5A	p.H558R	H558R	558	Q14524	Topological domain	Cytoplasmic	414-719
+rs1805124	SCN5A	p.H558R	H558R	558	Q14524	Region	Disordered	461-591
+rs1805124	SCN5A	p.H558R	H558R	558	Q14524	Natural variant	channels properties are similar to wild-type; the double mutant R-558/I-512 channel shows that R-558 eliminates the negative shift induced by Ile-512 but only partially restores the kinetic abnormalities; can modulate the gating defects caused by Ala-2006 and other mutations; dbSNP:rs1805124	558-558

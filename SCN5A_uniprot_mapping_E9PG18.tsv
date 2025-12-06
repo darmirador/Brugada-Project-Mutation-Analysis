@@ -1,0 +1,3 @@
+rsID	gene	hgvsp	aa_change	protein_pos	uniprot_acc	uniprot_feature_type	uniprot_feature_desc	uniprot_feature_range
+rs1805124	SCN5A	p.H558R	H558R	558	E9PG18	Domain	Voltage-gated Na+ ion channel cytoplasmic	508-667
+rs1805124	SCN5A	p.H558R	H558R	558	E9PG18	Region	Disordered	461-591
