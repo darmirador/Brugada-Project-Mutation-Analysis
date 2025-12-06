@@ -1,0 +1,2 @@
+gene	aa_change	rsid	clinvar_class	clinvar_score	vep_impact	vep_consequences	vep_sift	vep_polyphen	clinvar_counts
+SCN5A	H558R	rs1805124	benign	0.171	MODERATE	missense_variant	tolerated_low_confidence	benign	{"pathogenic": 1, "benign": 6, "likely_benign": 7}

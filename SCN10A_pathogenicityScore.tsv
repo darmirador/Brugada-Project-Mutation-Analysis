@@ -1,0 +1,5 @@
+gene	aa_change	rsid	clinvar_class	clinvar_score	vep_impact	vep_consequences	vep_sift	vep_polyphen	clinvar_counts
+SCN10A	V1073A	rs6795970	benign	0.000	MODERATE	missense_variant	tolerated_low_confidence	benign	{"benign": 4}
+SCN10A	K950N	rs7374804	benign	0.200	MODERATE	missense_variant	deleterious_low_confidence	probably_damaging	{"uncertain_significance": 2, "benign": 3}
+SCN10A	S509A	rs7630989	benign	0.067	MODERATE	missense_variant	tolerated_low_confidence	benign	{"likely_benign": 1, "benign": 2}
+SCN10A	I206M	rs74717885	benign	0.067	MODERATE	missense_variant	deleterious_low_confidence	benign	{"likely_benign": 1, "benign": 2}
