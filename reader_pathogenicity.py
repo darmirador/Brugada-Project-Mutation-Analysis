@@ -35,9 +35,9 @@ Output:
         clinvar_counts_json
 
 Usage:
-    python3 summarize_mutants_all.py \
+    python3 reader_pathogenicity.py \
         -i SCN5A_mutated_protein.fasta \
-        -o SCN5A_predictions.tsv
+        -o SCN5A_pathogenicityScore.tsv
 
 Notes:
     - Requires internet access for NCBI and VEP REST API queries.

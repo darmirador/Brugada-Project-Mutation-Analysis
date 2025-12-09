@@ -11,7 +11,7 @@ Expected FASTA headers (examples):
 >SCN10A|WT|ENST00000449082|wildtype_protein
 
 Sample usage:
-    python3 reader_uniprot_from_fasta.py \
+    python3 reader_uniprot.py \
         -m SCN10A_mutated_protein.fasta \
         -g SCN10A \
         -u Q9Y5Y9 \
