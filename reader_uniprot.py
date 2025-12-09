@@ -20,7 +20,6 @@ Sample usage:
         
 Please install the necessary dependencies such as biopython (for processing the fasta files)
 by typing 'pip3 install biopython' on terminal.
-
 """
 
 import argparse

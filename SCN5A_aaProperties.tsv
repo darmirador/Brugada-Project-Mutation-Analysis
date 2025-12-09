@@ -1,0 +1,2 @@
+gene	rsid	mutation	position	wt_aa	mut_aa	charge_wt	charge_mut	delta_charge	polarity_wt	polarity_mut	volume_wt	volume_mut	delta_volume	kd_wt	kd_mut	delta_kd	helix_wt	helix_mut	delta_helix	grantham
+SCN5A	rs1805124	H558R	558	H	R	1	1	0	basic	basic	153.2	173.4	20.200000000000017	-3.2	-4.5	-1.2999999999999998	1.0	0.79	-0.20999999999999996	29
